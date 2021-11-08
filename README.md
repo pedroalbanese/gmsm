@@ -3,8 +3,10 @@
 GM SM2/3/4 library based on Golang
 =======
 
-[![Build Status](https://travis-ci.com/tjfoc/gmsm.svg?branch=master)](https://travis-ci.com/github/tjfoc/gmsm)
-
+[![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/pedroalbanese/gosttk/blob/master/LICENSE.md) 
+[![GoDoc](https://godoc.org/github.com/pedroalbanese/gmsm?status.png)](http://godoc.org/github.com/pedroalbanese/gmsm)
+[![Go Report Card](https://goreportcard.com/badge/github.com/pedroalbanese/gmsm)](https://goreportcard.com/report/github.com/pedroalbanese/gmsm)
+[![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/pedroalbanese/gmsm)](https://golang.org)
 
 ## Feature
  gmsm包含以下主要功能
